@@ -79,7 +79,7 @@ const Hero: React.FC = () => {
             <div className="relative inline-block">
               <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-gradient-to-r from-blue-400 to-cyan-400 p-1 animate-pulse">
                 <div className="w-full h-full rounded-full bg-gray-800 dark:bg-gray-200 flex items-center justify-center">
-                  <span className="text-4xl font-bold text-white dark:text-gray-800">MA</span>
+                  <span className="text-4xl font-bold text-white dark:text-gray-800">MK</span>
                 </div>
               </div>
               <div className="absolute -top-2 -right-2 w-8 h-8 bg-green-400 rounded-full border-4 border-white dark:border-gray-900 animate-bounce" />
@@ -95,7 +95,7 @@ const Hero: React.FC = () => {
             </h1>
             
             <p className="text-xl sm:text-2xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-              B.Sc. Artificial Intelligence Student
+              B.Tech Artificial Intelligence Student
             </p>
             
             <p className="text-lg text-gray-500 dark:text-gray-400 max-w-2xl mx-auto">

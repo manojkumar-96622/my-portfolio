@@ -69,10 +69,10 @@ const Footer: React.FC = () => {
             {/* Brand Section */}
             <div className="col-span-1 lg:col-span-2">
               <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent mb-4">
-                Manojkumar Adepu
+                 Portfolio 
               </h3>
               <p className="text-gray-300 mb-6 max-w-md">
-                B.Sc. Artificial Intelligence student passionate about creating innovative solutions 
+               B.Tech Artificial Intelligence student passionate about creating innovative solutions 
                 through AI, web development, and user experience design.
               </p>
               <div className="flex space-x-4">
@@ -115,10 +115,10 @@ const Footer: React.FC = () => {
                 <div>
                   <p className="text-gray-400 text-sm">Email</p>
                   <a
-                    href="mailto:adepumanojkumar1@gmail.com"
+                    href="mailto:adepumanojkumar96@gmail.com"
                     className="text-blue-400 hover:text-blue-300 transition-colors duration-200"
                   >
-                    adepumanojkumar1@gmail.com
+                    adepumanojkumar96@gmail.com
                   </a>
                 </div>
                 <div>
@@ -142,7 +142,7 @@ const Footer: React.FC = () => {
                 © {currentYear} Manojkumar Adepu. All rights reserved.
               </p>
               <p className="text-gray-400 text-sm flex items-center mt-2 md:mt-0">
-                Made with <Heart className="w-4 h-4 text-red-500 mx-1" /> using React & TypeScript
+                "Built using React and TypeScript"
               </p>
             </div>
           </div>

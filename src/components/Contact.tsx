@@ -26,8 +26,8 @@ const Contact: React.FC = () => {
     {
       icon: Mail,
       label: 'Email',
-      value: 'adepumanojkumar1@gmail.com',
-      href: 'mailto:adepumanojkumar1@gmail.com',
+      value: 'adepumanojkumar96@gmail.com',
+      href: 'mailto:adepumanojkumar96@gmail.com',
       color: 'from-blue-500 to-cyan-500',
     },
     {
@@ -39,8 +39,8 @@ const Contact: React.FC = () => {
     },
     {
       icon: Phone,
-      label: 'Available',
-      value: 'Mon - Fri, 9AM - 6PM IST',
+      label: 'Phone Number',
+      value: '9121032468',
       href: '#',
       color: 'from-purple-500 to-pink-500',
     },
@@ -228,14 +228,14 @@ const Contact: React.FC = () => {
         <div className="mt-16 text-center">
           <div className="bg-gradient-to-r from-blue-600/10 to-cyan-600/10 rounded-2xl p-8 border border-blue-400/20">
             <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">
-              Interested in Working Together?
+              Interested in Working Together?<br></br>
+
+              Contact to my mail
             </h3>
             <p className="text-gray-600 dark:text-gray-300 mb-6">
-              Download my resume to learn more about my experience and qualifications.
+           
             </p>
-            <button className="px-8 py-3 bg-gradient-to-r from-blue-600 to-cyan-600 text-white font-semibold rounded-xl hover:from-blue-700 hover:to-cyan-700 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-blue-500/25">
-              Download Resume
-            </button>
+            
           </div>
         </div>
       </div>

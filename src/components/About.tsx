@@ -10,7 +10,7 @@ const About: React.FC = () => {
             About <span className="bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">Me</span>
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            I'm a passionate B.Sc. Artificial Intelligence student with a strong foundation in programming, web development, and UX design.
+            I'm a passionate B.Tech Artificial Intelligence student with a strong foundation in programming, web development, and UX design.
           </p>
         </div>
 
@@ -26,11 +26,11 @@ const About: React.FC = () => {
               <div className="space-y-4">
                 <div>
                   <p className="text-sm text-gray-500 dark:text-gray-400">Name</p>
-                  <p className="text-lg font-semibold text-gray-900 dark:text-white">Manojkumar Adepu</p>
+                  <p className="text-lg font-semibold text-gray-900 dark:text-white">Portfolio</p>
                 </div>
                 <div>
                   <p className="text-sm text-gray-500 dark:text-gray-400">Education</p>
-                  <p className="text-lg font-semibold text-gray-900 dark:text-white">B.Sc. Artificial Intelligence</p>
+                  <p className="text-lg font-semibold text-gray-900 dark:text-white">B.Tech Artificial Intelligence</p>
                   <p className="text-sm text-gray-600 dark:text-gray-300">Malla Reddy University, Hyderabad</p>
                 </div>
                 <div>

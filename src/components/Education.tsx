@@ -29,7 +29,7 @@ const Education: React.FC = () => {
                     <GraduationCap className="w-8 h-8 text-blue-400 mr-3" />
                     <div>
                       <h3 className="text-2xl font-bold text-gray-900 dark:text-white">
-                        Bachelor of Science in Artificial Intelligence
+                        Bachelor of Technology in Artificial Intelligence
                       </h3>
                       <p className="text-lg text-blue-400 font-semibold">
                         Malla Reddy University, Hyderabad

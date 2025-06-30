@@ -50,7 +50,7 @@ const Navigation: React.FC = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex-shrink-0">
               <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
-                Manojkumar Adepu
+                 Portfolio 
               </h1>
             </div>
 
